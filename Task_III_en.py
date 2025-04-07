@@ -1,3 +1,15 @@
+# Student Name:  Jacob Hamacher
+# Program Name:  Task 3 Encryptor
+# Creation Date:  3/9/25
+# Last Modified Date:  4/7/25(Adding comments)
+# CSCI Course:  CSCI 452
+# Grade Received:  --/100 (Pending grade)
+# Design Comments: This is a python program that takes in a 
+#                  plaintext message, two cipher keys, and a 
+#                  value to perform the columnar shift. It is
+#                  meant to be paired with the Decryptor from
+#                  task 3.
+
 import math
 
 def caesar_cipher(text, key, encrypt=True):
